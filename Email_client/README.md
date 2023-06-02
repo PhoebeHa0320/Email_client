@@ -4,8 +4,7 @@
 - IDE: Apache Netbeans (mới nhất) chỉ cần ít nhất trong phiên bản 12 cũng được
 - JDK: khuyến cáo: JDK 17 trở lên do source đã đẩy lên JDK 17 LTS
 - Vui lòng để lại comment trong dòng code để các thành viên hiểu function của code
-- Muốn hiểu các Folder Email sử dụng trong bài, truy cập link dưới và chọn package CheckEmailFolder để có thêm thông tin
-- https://github.com/2dgirlismywaifu/Network_development_Java
+
 # Mục tiêu
 - Chú ý: các mục tiêu các thành viên có thể add thêm
 1. Có đầy đủ chức năng gửi thư và fetch đc nội dung hộp thư đến của tài khoản
