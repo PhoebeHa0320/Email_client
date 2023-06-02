@@ -1,0 +1,16 @@
+package email_client.global;
+
+import com.formdev.flatlaf.FlatIntelliJLaf;
+import javax.swing.UIManager;
+import javax.swing.UnsupportedLookAndFeelException;
+
+public class LookandFeel {
+    public static void setTheme() {
+        try { 
+            UIManager.setLookAndFeel(new FlatIntelliJLaf());           
+        } catch (UnsupportedLookAndFeelException ex) { 
+            ex.printStackTrace(); 
+        }
+            }
+    
+}
